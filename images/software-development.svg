@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 330" role="img" aria-labelledby="title desc">
+    <title id="title">Software development illustration</title>
+    <desc id="desc">A simple computer monitor with code lines on the screen.</desc>
+    <rect x="45" y="25" width="410" height="245" rx="16" fill="#dceaf5"/>
+    <rect x="75" y="55" width="350" height="185" rx="8" fill="#102b46"/>
+    <circle cx="98" cy="77" r="6" fill="#f0b84b"/>
+    <circle cx="118" cy="77" r="6" fill="#6ab7a8"/>
+    <circle cx="138" cy="77" r="6" fill="#d77b70"/>
+    <rect x="105" y="112" width="115" height="10" rx="5" fill="#80b9df"/>
+    <rect x="130" y="140" width="180" height="10" rx="5" fill="#ffffff"/>
+    <rect x="130" y="168" width="135" height="10" rx="5" fill="#80b9df"/>
+    <rect x="105" y="196" width="220" height="10" rx="5" fill="#ffffff"/>
+    <path d="M220 270 L280 270 L300 300 L200 300 Z" fill="#315f88"/>
+    <rect x="175" y="300" width="150" height="12" rx="6" fill="#102b46"/>
+</svg>

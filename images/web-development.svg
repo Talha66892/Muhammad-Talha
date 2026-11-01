@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 330" role="img" aria-labelledby="title desc">
+    <title id="title">Web browser illustration</title>
+    <desc id="desc">A browser window with a navigation bar and a sample webpage.</desc>
+    <rect x="35" y="35" width="430" height="260" rx="14" fill="#dceaf5"/>
+    <path d="M35 49a14 14 0 0 1 14-14h402a14 14 0 0 1 14 14v36H35z" fill="#315f88"/>
+    <circle cx="62" cy="60" r="7" fill="#f0b84b"/>
+    <circle cx="86" cy="60" r="7" fill="#6ab7a8"/>
+    <circle cx="110" cy="60" r="7" fill="#d77b70"/>
+    <rect x="65" y="112" width="125" height="145" rx="8" fill="#80b9df"/>
+    <rect x="215" y="112" width="220" height="22" rx="6" fill="#102b46"/>
+    <rect x="215" y="151" width="190" height="12" rx="6" fill="#315f88"/>
+    <rect x="215" y="176" width="205" height="12" rx="6" fill="#315f88"/>
+    <rect x="215" y="201" width="165" height="12" rx="6" fill="#315f88"/>
+    <rect x="215" y="231" width="95" height="26" rx="6" fill="#6ab7a8"/>
+</svg>
